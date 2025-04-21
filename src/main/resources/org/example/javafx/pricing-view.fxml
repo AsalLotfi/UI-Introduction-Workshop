@@ -28,7 +28,7 @@
          </Label>
       </children>
    </HBox>
-   <HBox alignment="CENTER" prefHeight="501.0" prefWidth="476.0" spacing="50.0" style="-fx-border-color: gray; -fx-border-radius: 5; -fx-background-radius: 5;">
+   <HBox alignment="CENTER" prefHeight="501.0" prefWidth="476.0" spacing="50.0" style="-fx-border-radius: 5; -fx-background-radius: 5;">
       <children>
          <VBox prefHeight="200.0" prefWidth="200.0" spacing="10.0" style="-fx-border-color: gray; -fx-border-radius: 10; -fx-background-radius: 10;">
             <children>

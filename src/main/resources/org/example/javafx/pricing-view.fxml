@@ -53,7 +53,7 @@
                      <Font size="9.0" />
                   </font>
                </Label>
-               <Button mnemonicParsing="false" style="-fx-background-color: black; -fx-background-radius: 10; -fx-border-radius: 10;" text="Shop" textFill="WHITE" />
+               <Button mnemonicParsing="false" style="-fx-background-color: black; -fx-background-radius: 10; -fx-border-radius: 10;" text="Shop" onAction="#handleShopClick" textFill="WHITE" />
                <Line endX="100.0" fill="#8f1212" layoutX="120.0" layoutY="128.0" startX="-100.0" stroke="#0000002a">
                   <VBox.margin>
                      <Insets bottom="20.0" />
@@ -105,7 +105,7 @@
                      <Font size="9.0" />
                   </font>
                </Label>
-               <Button mnemonicParsing="false" style="-fx-background-color: black; -fx-background-radius: 10; -fx-border-radius: 10;" text="Shop" textFill="WHITE" />
+               <Button mnemonicParsing="false" style="-fx-background-color: black; -fx-background-radius: 10; -fx-border-radius: 10;" text="Shop" onAction="#handleShopClick" textFill="WHITE" />
                <Line endX="100.0" fill="#8f1212" layoutX="120.0" layoutY="128.0" startX="-100.0" stroke="#0000002a">
                   <VBox.margin>
                      <Insets bottom="20.0" />
@@ -163,7 +163,7 @@
                      <Font size="9.0" />
                   </font>
                </Label>
-               <Button mnemonicParsing="false" style="-fx-background-color: black; -fx-background-radius: 10; -fx-border-radius: 10;" text="Shop" textFill="WHITE" />
+               <Button mnemonicParsing="false" style="-fx-background-color: black; -fx-background-radius: 10; -fx-border-radius: 10;" text="Shop" onAction="#handleShopClick" textFill="WHITE" />
                <Line endX="100.0" fill="#8f1212" layoutX="120.0" layoutY="128.0" startX="-100.0" stroke="#0000002a">
                   <VBox.margin>
                      <Insets bottom="20.0" />
